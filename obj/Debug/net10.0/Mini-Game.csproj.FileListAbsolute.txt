@@ -1,0 +1,15 @@
+C:\Users\User1\Desktop\Mini-Game\bin\Debug\net10.0\Mini-Game.exe
+C:\Users\User1\Desktop\Mini-Game\bin\Debug\net10.0\Mini-Game.deps.json
+C:\Users\User1\Desktop\Mini-Game\bin\Debug\net10.0\Mini-Game.runtimeconfig.json
+C:\Users\User1\Desktop\Mini-Game\bin\Debug\net10.0\Mini-Game.dll
+C:\Users\User1\Desktop\Mini-Game\bin\Debug\net10.0\Mini-Game.pdb
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.AssemblyInfoInputs.cache
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.AssemblyInfo.cs
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.csproj.CoreCompileInputs.cache
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.sourcelink.json
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.dll
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\refint\Mini-Game.dll
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.pdb
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\Mini-Game.genruntimeconfig.cache
+C:\Users\User1\Desktop\Mini-Game\obj\Debug\net10.0\ref\Mini-Game.dll
